@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T06:35:47.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="4mRJhhYZWML9qq8_inRi" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T07:01:07.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="mYWWmtHIwF_OtDRjNzjW" version="14.1.4" type="github">
   <diagram id="loFfVk7E3o2_CKLYnwea" name="Page-1">
-    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="844" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -676,8 +676,8 @@
             <mxPoint x="42.09000000000009" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IKVx474WsLq0OHsvb9kB-59" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 19px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Cascaded Dense Residual block (CRB)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="73.44000000000003" y="460" width="470" height="20" as="geometry" />
+        <mxCell id="IKVx474WsLq0OHsvb9kB-59" value="&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 20px&quot;&gt;Dense&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;Cascaded Residual block (DCRB)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="73.44" y="460" width="516.56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IKVx474WsLq0OHsvb9kB-62" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="192.58000000000004" y="359" width="30" height="80" as="geometry" />
